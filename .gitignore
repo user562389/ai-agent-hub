@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 对话记忆数据（个人数据不同步到 GitHub）
+memory/*.json
+
+# 环境相关
+.env
+venv/
+env/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+*.log
+.DS_Store
+Thumbs.db
